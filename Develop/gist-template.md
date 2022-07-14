@@ -1,4 +1,4 @@
-# Gloang RedEx Tutorial
+# Golang RedEx Tutorial
 
 Introductory paragraph (replace this with your text)
 
